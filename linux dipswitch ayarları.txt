@@ -1,0 +1,8 @@
+
+
+dip switchlerden
+1'i default ayara çekme
+2   mid metre var mı yok mu
+
+kilitli mi değil mi protokolle yap
+tek fazlı mı 3 fazlı mı protokolle yap
